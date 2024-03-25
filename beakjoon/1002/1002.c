@@ -28,9 +28,6 @@ int main(void){
             else if(a==s(r1-r2) || a==s(r1+r2)){
                 printf("1\n");
             }
-            else{
-                printf("0\n");
-            }
         }
     }
     
